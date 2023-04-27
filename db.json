@@ -1,6 +1,62 @@
 {
-    "users": [{ "id": 1, "name": "Myra" }],
-    "albums": [],
-    "photos": []
-  }
-  
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jeanette Watsica",
+      "id": 2
+    },
+    {
+      "name": "Keith Lakin Jr.",
+      "id": 3
+    },
+    {
+      "name": "Terri Flatley",
+      "id": 4
+    },
+    {
+      "name": "Nina Smith",
+      "id": 5
+    },
+    {
+      "name": "Toni Goyette",
+      "id": 6
+    },
+    {
+      "name": "Essie Pagac",
+      "id": 7
+    },
+    {
+      "name": "Mable Wehner",
+      "id": 8
+    },
+    {
+      "name": "Keith West",
+      "id": 9
+    },
+    {
+      "name": "Rita Marquardt",
+      "id": 10
+    },
+    {
+      "name": "Noah Bradtke",
+      "id": 11
+    },
+    {
+      "name": "Jody Ebert",
+      "id": 12
+    },
+    {
+      "name": "Ismael Miller",
+      "id": 13
+    },
+    {
+      "name": "Darryl Waelchi",
+      "id": 14
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
