@@ -4,6 +4,7 @@ import Button from "./Button";
 import Skeleton from "./Skeleton";
 import { useSelector } from "react-redux";
 import useThunk from "../hooks/useThunk";
+import UsersListItem from "./UsersListItem";
 
 function UsersList(){
     const [doFetchUsers, isLoadingUsers, loadingUsersError] = useThunk(fetchUsers);
@@ -26,14 +27,7 @@ function UsersList(){
 
     if (loadingUsersError) content = <div>Error Fetching Data...</div>;
 
-    const renderedUsers = data.map(user => {
-        return <div key={user.id} className="mb-2 border rounded">
-            <div className="flex p-2 justify-between items-center cursor-pointer">
-                {user.name}
-            </div>
-        </div>
-    });
-
+    const renderedUsers = data.map(user => <UsersListItem key={user.id} user={user}/>);
 
     return(
         <div>

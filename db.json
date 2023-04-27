@@ -1,92 +1,24 @@
 {
   "users": [
     {
-      "name": "Jeanette Watsica",
+      "name": "Marvin Dicki",
       "id": 2
     },
     {
-      "name": "Terri Flatley",
+      "name": "Ms. Katrina Klocko",
+      "id": 3
+    },
+    {
+      "name": "Christie Sporer",
       "id": 4
     },
     {
-      "name": "Nina Smith",
+      "name": "Mrs. Roy Renner",
       "id": 5
     },
     {
-      "name": "Toni Goyette",
+      "name": "Edgar Senger",
       "id": 6
-    },
-    {
-      "name": "Essie Pagac",
-      "id": 7
-    },
-    {
-      "name": "Mable Wehner",
-      "id": 8
-    },
-    {
-      "name": "Keith West",
-      "id": 9
-    },
-    {
-      "name": "Rita Marquardt",
-      "id": 10
-    },
-    {
-      "name": "Noah Bradtke",
-      "id": 11
-    },
-    {
-      "name": "Jody Ebert",
-      "id": 12
-    },
-    {
-      "name": "Melanie Denesik",
-      "id": 13
-    },
-    {
-      "name": "Mr. Luke Pacocha",
-      "id": 14
-    },
-    {
-      "name": "Mattie Hessel",
-      "id": 15
-    },
-    {
-      "name": "Casey Roberts",
-      "id": 16
-    },
-    {
-      "name": "Sidney McCullough",
-      "id": 17
-    },
-    {
-      "name": "Sophie Schiller",
-      "id": 18
-    },
-    {
-      "name": "Dr. Geoffrey Gorczany DDS",
-      "id": 19
-    },
-    {
-      "name": "Angelo Feil",
-      "id": 20
-    },
-    {
-      "name": "Lamar Hoeger",
-      "id": 21
-    },
-    {
-      "name": "Janis Abernathy",
-      "id": 22
-    },
-    {
-      "name": "Sylvester Stracke",
-      "id": 23
-    },
-    {
-      "name": "Wallace Bayer",
-      "id": 24
     }
   ],
   "albums": [],
