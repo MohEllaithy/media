@@ -1,26 +1,73 @@
 {
   "users": [
     {
-      "name": "Johnny Koelpin",
-      "id": 11
+      "name": "Shannon Tremblay",
+      "id": 1
     },
     {
-      "name": "Antonio Schoen",
-      "id": 12
+      "name": "Mrs. Lynne Kozey",
+      "id": 3
     },
     {
-      "name": "Justin Bednar",
-      "id": 13
+      "name": "Josephine Watsica",
+      "id": 4
     },
     {
-      "name": "Miss Heather Stanton",
-      "id": 14
+      "name": "Darryl Fisher",
+      "id": 5
     },
     {
-      "name": "Clifford Bode IV",
-      "id": 15
+      "name": "Jean Grant",
+      "id": 6
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Electronic Bronze Towels",
+      "id": 4
+    },
+    {
+      "userId": 3,
+      "title": "Gorgeous Rubber Sausages",
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Plastic Shirt",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Unbranded Metal Computer",
+      "id": 8
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=15578",
+      "id": 1
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=53444",
+      "id": 3
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=71812",
+      "id": 5
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=24973",
+      "id": 6
+    },
+    {
+      "albumId": 8,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2396",
+      "id": 7
+    }
+  ]
 }
